@@ -198,7 +198,7 @@ h3 {
     text-align: center;
     width: 100%;
     padding: 50px 0px 50px 0px;
-    margin-top: 50px;
+    margin-top: 25px;
 }
 
 @media screen and (max-width: 991.98px) {
@@ -232,17 +232,13 @@ h3 {
         display: block;
     }
 
-    section img {
+    section img, .footer-section {
         display: block;
         width: 100%;
         height: auto;
     }
 
-    .kartu-tutor, .kartu-partner {
+    .kartu-tutor, .kartu-partner{
         width: 50%;
     }
-
-
-
-    
 }
